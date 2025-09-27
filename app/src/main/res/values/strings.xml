@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiHello</string>
+    <string name="activity_main">Activity Main</string>
+    <string name="second_activity">Welcome to Screen 2</string>
+    <string name="btn_navigate">Next page</string>
+    <string name="btn_navigate2">Back to Previous Page</string>
+</resources>
